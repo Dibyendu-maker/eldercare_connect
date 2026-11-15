@@ -83,7 +83,7 @@
 
 ### 1. Clone & Set Up Virtual Environment
 ```bash
-git clone https://github.com/your-org/eldercare_connect.git
+git clone https://github.com/Dibyendu-maker/eldercare_connect.git
 cd eldercare_connect
 
 python -m venv venv
